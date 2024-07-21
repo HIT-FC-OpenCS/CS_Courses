@@ -75,22 +75,16 @@ PPT几乎是纯英文，但是中文授课
 
 
 ### 参考书目
-
-
-- D. Zhang. Automated Biometrics: Technologies & Systems, Kluwer 
-Academic Publishers, 2000.
--  D. Zhang, et al. Advanced Biometrics, Springer International
-Publishing, 2018.
--  Xiangqian Wu, et al. Palmprint Recognition, Scientific Publisher,
-2006 (Chinese)
-- Jiang, R., et al. Deep Biometrics, Springer International
-Publishing, 2020.
--  ➢IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (Weight: 5)
-- ➢ IEEE Transactions on Image Processing (T-IP) (Weight: 4)
-- ➢ IEEE Transactions on Information Forensics and Security (T-IFS) (Weight: 4)
-- ➢ Other Journals of IEEE(Weight: 3)
-- ➢ Pattern Recognition (PR) (Weight: 4)
-- ➢ IEEE Conference on Computer Vision and Pattern Recognition (CVPR)(Weight: 5)
-- ➢ IEEE International Conference on Computer Vision (ICCV) (Weight: 5)
-- ➢ European Conference on Computer Vision (ECCV) (Weight: 5)
-- ➢ International Conference on Biometrics (ICB) (Weight: 3)
+- D. Zhang. Automated Biometrics: Technologies & Systems, Kluwer Academic Publishers, 2000.
+- D. Zhang, et al. Advanced Biometrics, Springer International Publishing, 2018.
+- Xiangqian Wu, et al. Palmprint Recognition, Scientific Publisher,2006 (Chinese)
+- Jiang, R., et al. Deep Biometrics, Springer International Publishing, 2020.
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (Weight: 5)
+- IEEE Transactions on Image Processing (T-IP) (Weight: 4)
+- IEEE Transactions on Information Forensics and Security (T-IFS) (Weight: 4)
+- Other Journals of IEEE(Weight: 3)
+- Pattern Recognition (PR) (Weight: 4)
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR)(Weight: 5)
+- IEEE International Conference on Computer Vision (ICCV) (Weight: 5)
+- European Conference on Computer Vision (ECCV) (Weight: 5)
+- International Conference on Biometrics (ICB) (Weight: 3)
