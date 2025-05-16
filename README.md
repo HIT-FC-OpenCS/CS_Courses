@@ -23,7 +23,7 @@
 
 ## :ledger: 计算学部 | 课程资料共享计划
 
-项目转移至[https://github.com/HITLittleZheng/HITCS](https://github.com/HITLittleZheng/HITCS)
+本项目不再更新，已转移至[https://github.com/HITLittleZheng/HITCS](https://github.com/HITLittleZheng/HITCS)进行更新
 
 ## :fire: 更新 | News
 
